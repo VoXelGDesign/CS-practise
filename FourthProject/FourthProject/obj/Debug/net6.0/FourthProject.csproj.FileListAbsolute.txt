@@ -1,0 +1,15 @@
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\bin\Debug\net6.0\FourthProject.exe
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\bin\Debug\net6.0\FourthProject.deps.json
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\bin\Debug\net6.0\FourthProject.runtimeconfig.json
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\bin\Debug\net6.0\FourthProject.dll
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\bin\Debug\net6.0\FourthProject.pdb
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\obj\Debug\net6.0\FourthProject.csproj.AssemblyReference.cache
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\obj\Debug\net6.0\FourthProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\obj\Debug\net6.0\FourthProject.AssemblyInfoInputs.cache
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\obj\Debug\net6.0\FourthProject.AssemblyInfo.cs
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\obj\Debug\net6.0\FourthProject.csproj.CoreCompileInputs.cache
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\obj\Debug\net6.0\FourthProject.dll
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\obj\Debug\net6.0\refint\FourthProject.dll
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\obj\Debug\net6.0\FourthProject.pdb
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\obj\Debug\net6.0\FourthProject.genruntimeconfig.cache
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\FourthProject\FourthProject\obj\Debug\net6.0\ref\FourthProject.dll
