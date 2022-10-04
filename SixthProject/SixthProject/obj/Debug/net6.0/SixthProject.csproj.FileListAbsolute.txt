@@ -1,0 +1,15 @@
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\bin\Debug\net6.0\SixthProject.exe
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\bin\Debug\net6.0\SixthProject.deps.json
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\bin\Debug\net6.0\SixthProject.runtimeconfig.json
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\bin\Debug\net6.0\SixthProject.dll
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\bin\Debug\net6.0\SixthProject.pdb
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\obj\Debug\net6.0\SixthProject.csproj.AssemblyReference.cache
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\obj\Debug\net6.0\SixthProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\obj\Debug\net6.0\SixthProject.AssemblyInfoInputs.cache
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\obj\Debug\net6.0\SixthProject.AssemblyInfo.cs
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\obj\Debug\net6.0\SixthProject.csproj.CoreCompileInputs.cache
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\obj\Debug\net6.0\SixthProject.dll
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\obj\Debug\net6.0\refint\SixthProject.dll
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\obj\Debug\net6.0\SixthProject.pdb
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\obj\Debug\net6.0\SixthProject.genruntimeconfig.cache
+C:\Users\VoXel\Documents\Repozytoria\CS-practise\SixthProject\SixthProject\obj\Debug\net6.0\ref\SixthProject.dll
