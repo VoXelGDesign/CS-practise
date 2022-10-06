@@ -1,0 +1,15 @@
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\bin\Debug\net6.0\Prjoect_10.exe
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\bin\Debug\net6.0\Prjoect_10.deps.json
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\bin\Debug\net6.0\Prjoect_10.runtimeconfig.json
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\bin\Debug\net6.0\Prjoect_10.dll
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\bin\Debug\net6.0\Prjoect_10.pdb
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\obj\Debug\net6.0\Prjoect_10.csproj.AssemblyReference.cache
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\obj\Debug\net6.0\Prjoect_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\obj\Debug\net6.0\Prjoect_10.AssemblyInfoInputs.cache
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\obj\Debug\net6.0\Prjoect_10.AssemblyInfo.cs
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\obj\Debug\net6.0\Prjoect_10.csproj.CoreCompileInputs.cache
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\obj\Debug\net6.0\Prjoect_10.dll
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\obj\Debug\net6.0\refint\Prjoect_10.dll
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\obj\Debug\net6.0\Prjoect_10.pdb
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\obj\Debug\net6.0\Prjoect_10.genruntimeconfig.cache
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Prjoect_10\Prjoect_10\obj\Debug\net6.0\ref\Prjoect_10.dll
