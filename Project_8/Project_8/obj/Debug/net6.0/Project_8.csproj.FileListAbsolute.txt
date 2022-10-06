@@ -1,0 +1,15 @@
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\bin\Debug\net6.0\Project_8.exe
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\bin\Debug\net6.0\Project_8.deps.json
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\bin\Debug\net6.0\Project_8.runtimeconfig.json
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\bin\Debug\net6.0\Project_8.dll
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\bin\Debug\net6.0\Project_8.pdb
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\obj\Debug\net6.0\Project_8.csproj.AssemblyReference.cache
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\obj\Debug\net6.0\Project_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\obj\Debug\net6.0\Project_8.AssemblyInfoInputs.cache
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\obj\Debug\net6.0\Project_8.AssemblyInfo.cs
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\obj\Debug\net6.0\Project_8.csproj.CoreCompileInputs.cache
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\obj\Debug\net6.0\Project_8.dll
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\obj\Debug\net6.0\refint\Project_8.dll
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\obj\Debug\net6.0\Project_8.pdb
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\obj\Debug\net6.0\Project_8.genruntimeconfig.cache
+C:\Users\tryne\source\repos\VoXelGDesign\CS-practise\Project_8\Project_8\obj\Debug\net6.0\ref\Project_8.dll
