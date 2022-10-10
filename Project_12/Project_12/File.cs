@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project_12
 {
-    internal class File
+    abstract class File
     {
         public string FileName { get; set; }
         public int Size { get; set; }
@@ -15,5 +15,7 @@ namespace Project_12
 
         protected string ProtectedProp { get; set; }
         private string PrivateProp { get; set; }
+
+        public abstract void Compress();
     }
 }

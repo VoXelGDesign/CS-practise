@@ -58,6 +58,8 @@ namespace Project_12
             Class1 test = new Class1();
             test.PublicProp = "test";
             //error test.InternalProp = "test";
+            //error (abstract class) File file = new File();
+            powerPointFile.Compress();
         }
     }
 }

@@ -13,3 +13,6 @@ C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\Project_12\obj\Debu
 C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\Project_12\obj\Debug\net6.0\Project_12.pdb
 C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\Project_12\obj\Debug\net6.0\Project_12.genruntimeconfig.cache
 C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\Project_12\obj\Debug\net6.0\ref\Project_12.dll
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\Project_12\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\Project_12\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\Project_12\obj\Debug\net6.0\Project_12.csproj.CopyComplete

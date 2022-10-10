@@ -1,0 +1,12 @@
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\tryne\Documents\VoXelGDesign\CS-practise\Project_12\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
