@@ -8,8 +8,13 @@ namespace Project_12
         static void Main(string[] args)
         {
             Person bill = new Person("Bill","Wick");
-            bill.SetDateOfBirth(new DateTime(1990,1,1));          
+            bill.DateOfBirth = new DateTime(1990,1,1);
+
             bill.SayHi();
+            bill.ContactNumber = "111222333";
+            Console.WriteLine(bill.ContactNumber);
+
+            
 
             Person john = new Person(new DateTime(1990,1,2),"John","Wick");
 

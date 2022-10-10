@@ -10,6 +10,19 @@ namespace Project_12
         public string LastName;
         private DateTime dateOfBirth;
 
+        private string contactNumber;
+
+        public string ContactNumber
+        {
+            get { return contactNumber; }
+            set 
+            {
+                if (value.Length < 9) Console.WriteLine("Invalid contact number!");
+                else contactNumber = value;
+            }
+        }
+
+
         public Person(string firstName, string lastName)
         {
             Console.WriteLine("Construktor1");
@@ -19,18 +32,22 @@ namespace Project_12
         public Person(DateTime dateOfBirth,string firstName, string lastName) : this(firstName, lastName)
         {
             Console.WriteLine("Construktor2");
-            SetDateOfBirth(dateOfBirth);
-        }
-        public void SetDateOfBirth(DateTime date)
-        {
-            if (date < DateTime.Now) dateOfBirth = date;
-            else Console.WriteLine("Invalid date of Birth!");
+            DateOfBirth = dateOfBirth;
         }
 
-        public DateTime GetDateOfBirth() => dateOfBirth; // or older version public DateTime GetDateOfBirth(){ return dateOfBirth;}
+        public DateTime DateOfBirth
+        {
+            get { return dateOfBirth; }
+            set 
+            {
+                if (value < DateTime.Now) dateOfBirth = value;
+                else Console.WriteLine("Invalid date of Birth!");
+            }
+        }
+       
         public void SayHi()
         {
-            Console.WriteLine($"Hi, I'm {this.FirstName}, {this.GetDateOfBirth()}");
+            Console.WriteLine($"Hi, I'm {this.FirstName}, {this.DateOfBirth}");
         }
     }
 }
