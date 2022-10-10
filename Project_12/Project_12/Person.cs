@@ -9,9 +9,8 @@ namespace Project_12
         public string FirstName;
         public string LastName;
         private DateTime dateOfBirth;
-
         private string contactNumber;
-
+        public static int Count = 0;
         public string ContactNumber
         {
             get { return contactNumber; }
@@ -28,6 +27,7 @@ namespace Project_12
             Console.WriteLine("Construktor1");
             FirstName = firstName;
             LastName = lastName;
+            Count++;
         }
         public Person(DateTime dateOfBirth,string firstName, string lastName) : this(firstName, lastName)
         {

@@ -19,6 +19,40 @@ namespace Project_12
             Person john = new Person(new DateTime(1990,1,2),"John","Wick");
 
             john.SayHi();
+
+            Console.WriteLine("Objects of Person type count : " + Person.Count);
+
+            //          Examples of static elements:
+            //
+            //  1.static methods from Console:
+            //
+            //      Console.WriteLine();
+            //      Console.WriteLine();
+            //
+            //  2. static property from DateTime:
+            //
+            //      DateTime.Now;
+            //
+            //  3. static method from int:
+            // 
+            //      int.Parse();
+            //
+            // ---------------------------------------
+
+            ExcelFile excelFile = new ExcelFile();
+            excelFile.CreatedOn = DateTime.Now;
+            excelFile.FileName = "excel-file";
+            excelFile.GenerateReport();
+
+            WordDocumentFile wordDocFile = new WordDocumentFile();
+            wordDocFile.CreatedOn = DateTime.Now;
+            wordDocFile.FileName = "word-file";
+            wordDocFile.Print();
+
+            PowerPointFile powerPointFile = new PowerPointFile();
+            powerPointFile.CreatedOn = DateTime.Now;
+            powerPointFile.FileName = "powerpoint-file";
+            powerPointFile.Present();
         }
     }
 }
