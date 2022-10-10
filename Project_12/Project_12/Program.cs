@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using ClassLibrary;
 
 namespace Project_12
 {
@@ -53,6 +54,10 @@ namespace Project_12
             powerPointFile.CreatedOn = DateTime.Now;
             powerPointFile.FileName = "powerpoint-file";
             powerPointFile.Present();
+
+            Class1 test = new Class1();
+            test.PublicProp = "test";
+            //error test.InternalProp = "test";
         }
     }
 }

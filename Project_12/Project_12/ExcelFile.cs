@@ -10,6 +10,8 @@ namespace Project_12
     {        
         public void GenerateReport()
         {
+            // error string prop = PrivateProp;
+            string prop = ProtectedProp;
             Console.WriteLine($"{FileName} report...");
         }
     }
