@@ -6,9 +6,13 @@ using System.Threading.Tasks;
 
 namespace Project_12
 {
-    internal class WordDocumentFile : File
+    internal class WordDocumentFile : IFile
     {
-        public override void Compress()
+        public string FileName { get; set; }
+        public int Size { get; set; }
+        public DateTime CreatedOn { get; set; }
+
+        public void Compress()
         {
             Console.WriteLine("Compresing WordDocument file");
         }

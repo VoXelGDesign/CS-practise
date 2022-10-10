@@ -6,17 +6,18 @@ using System.Threading.Tasks;
 
 namespace Project_12
 {
-    internal class ExcelFile : File
+    internal class ExcelFile : IFile
     {
-        public override void Compress()
+        public string FileName { get; set; }
+        public int Size { get; set; }
+        public DateTime CreatedOn { get; set; }
+        public void Compress()
         {
             Console.WriteLine("Compresing Excel file");
         }
         public void GenerateReport()
         {
 
-            // error string prop = PrivateProp;
-            string prop = ProtectedProp;
             Console.WriteLine($"{FileName} report...");
         }
     }
