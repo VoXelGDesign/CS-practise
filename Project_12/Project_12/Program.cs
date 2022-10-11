@@ -8,16 +8,16 @@ namespace Project_12
     {
         static void Main(string[] args)
         {
-            Person bill = new Person("Bill","Wick");
-            bill.DateOfBirth = new DateTime(1990,1,1);
+            Person bill = new Person("Bill", "Wick");
+            bill.DateOfBirth = new DateTime(1990, 1, 1);
 
             bill.SayHi();
             bill.ContactNumber = "111222333";
             Console.WriteLine(bill.ContactNumber);
 
-            
 
-            Person john = new Person(new DateTime(1990,1,2),"John","Wick");
+
+            Person john = new Person(new DateTime(1990, 1, 2), "John", "Wick");
 
             john.SayHi();
 
@@ -60,6 +60,14 @@ namespace Project_12
             //error test.InternalProp = "test";
             //error (abstract class) File file = new File();
             powerPointFile.Compress();
+
+            Console.WriteLine("********************************");
+
+            Shape[] shapes = { new Circle(), new Rectangle(), new Triangle(), new Square() };
+            foreach (Shape shape in shapes) 
+            {
+                shape.Draw();
+            }
         }
     }
 }
