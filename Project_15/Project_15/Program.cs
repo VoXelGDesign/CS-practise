@@ -17,10 +17,13 @@ internal class Program
     }
     private static void Main(string[] args)
     {
-        Dictionary<string,Currency> currencies = GetCurrencies();
+        var currencies = GetCurrencies();
         Console.WriteLine("Check the rate for");
-        string userInput = Console.ReadLine();
+        var userInput = Console.ReadLine();
 
+        var index = 1;
+        var name = "Goofy";
+        // var something; <- error
         Currency selectedCurrency = null;
         if(currencies.TryGetValue(userInput, out selectedCurrency))
         {
