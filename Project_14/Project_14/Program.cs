@@ -21,20 +21,12 @@ internal class Program
     private static void Main(string[] args)
     {
         List<Person> employees = GetEmployees();
-        bool EmployeeIsYoung(Person employee)
-        {
-            return employee.DateOfBirth > new DateTime(2001, 1, 1);
-        }
-        List<Person> youngEmployees = employees.Where(EmployeeIsYoung).ToList();
+
+        List<Person> youngEmployees = employees.Where(e => e.DateOfBirth > new DateTime(2000,1,1)).ToList();
         
         Console.WriteLine($"Young employees count: {youngEmployees.Count}");
 
-        bool EmployeeIsBob(Person employee)
-        {
-            return employee.firstName == "Bob";
-        }
-
-        Person bob = youngEmployees.FirstOrDefault(EmployeeIsBob);
+        Person bob = youngEmployees.FirstOrDefault(e => e.firstName == "Bob");
 
         if(bob != null)
         {
