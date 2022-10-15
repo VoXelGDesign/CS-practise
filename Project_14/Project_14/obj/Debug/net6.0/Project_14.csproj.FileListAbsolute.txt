@@ -1,0 +1,15 @@
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\bin\Debug\net6.0\Project_14.exe
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\bin\Debug\net6.0\Project_14.deps.json
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\bin\Debug\net6.0\Project_14.runtimeconfig.json
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\bin\Debug\net6.0\Project_14.dll
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\bin\Debug\net6.0\Project_14.pdb
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\obj\Debug\net6.0\Project_14.csproj.AssemblyReference.cache
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\obj\Debug\net6.0\Project_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\obj\Debug\net6.0\Project_14.AssemblyInfoInputs.cache
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\obj\Debug\net6.0\Project_14.AssemblyInfo.cs
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\obj\Debug\net6.0\Project_14.csproj.CoreCompileInputs.cache
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\obj\Debug\net6.0\Project_14.dll
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\obj\Debug\net6.0\refint\Project_14.dll
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\obj\Debug\net6.0\Project_14.pdb
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\obj\Debug\net6.0\Project_14.genruntimeconfig.cache
+C:\Users\tryne\OneDrive\Dokumenty\CS-practise\Project_14\Project_14\obj\Debug\net6.0\ref\Project_14.dll
