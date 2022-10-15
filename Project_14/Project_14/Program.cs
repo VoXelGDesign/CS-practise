@@ -1,4 +1,5 @@
 ﻿using Project_14;
+using System.Linq;
 internal class Program
 {
     static List<Person> GetEmployees()
@@ -19,24 +20,28 @@ internal class Program
     private static void Main(string[] args)
     {
         List<Person> employees = GetEmployees();
-        List<Person> youngEmployees = new List<Person>();
-        foreach (Person employee in employees)
+        bool EmployeeIsYoung(Person employee)
         {
-            if(employee.DateOfBirth > new DateTime(2000, 1, 1))
-            {
-                youngEmployees.Add(employee);
-            }
-            
+            return employee.DateOfBirth > new DateTime(2001, 1, 1);
         }
+        List<Person> youngEmployees = employees.Where(EmployeeIsYoung).ToList();
+        
         Console.WriteLine($"Young employees count: {youngEmployees.Count}");
 
-        
-        foreach(Person youngEmployee in youngEmployees)
+        bool EmployeeIsBob(Person employee)
         {
-            if(youngEmployee.firstName == "Bob")
-            {
-                youngEmployee.SayHi();
-            }
+            return employee.firstName == "Bob";
+        }
+
+        Person bob = youngEmployees.FirstOrDefault(EmployeeIsBob);
+
+        if(bob != null)
+        {
+            bob.SayHi();
+        }
+        else
+        {
+            Console.WriteLine("Bob not found!");
         }
     }
 }
